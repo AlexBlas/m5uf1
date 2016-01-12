@@ -12,8 +12,12 @@ El **codi executable** és la traducció completa a codi màquina, duta a terme 
 
 **L’ enllaçador** és l’encarregat d’inserir al codi objecte les funcions de les llibreries que són necessàries per al programa i de dur a terme el procés de muntatge generant un arxiu executable.
 
-####La màquina virtual Java 
+La **compilació** consta de dues fases:
 
-La màquina virtual Java (JVM) és l’entorn en què s’executen els programes Java.
-És un programa natiu, és a dir, executable en una plataforma específica, que és
-capaç d’interpretar i executar instruccions expressades en un codi de bytes
+* La primera parteix del codi font a un llenguatge intermedi obtenint un programa equivalent amb un menor nivell d’abstracció que l’original i que no pot ser directament executat.
+
+* La segona fase tradueix el llenguatge intermedi a un llenguatge comprensible per la màquina
+
+####La màquina virtual Java
+
+La màquina virtual Java (JVM) és l’entorn en què s’executen els programes Java. És un programa natiu, és a dir, executable en una plataforma específica, que és capaç d’interpretar i executar instruccions expressades en un codi de bytes
