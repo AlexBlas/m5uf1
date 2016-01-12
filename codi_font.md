@@ -16,7 +16,7 @@ La **compilació** consta de dues fases:
 
 * La primera parteix del codi font a un llenguatge intermedi obtenint un programa equivalent amb un menor nivell d’abstracció que l’original i que no pot ser directament executat.
 
-* La segona fase tradueix el llenguatge intermedi a un llenguatge comprensible per la màquina
+* La segona fase tradueix el llenguatge intermedi a un llenguatge comprensible per la màquina.  De fet, la traducció del llenguatge intermedi al llenguatge màquina no se sol fer mitjançant compilació sinó mitjançant un intèrpret
 
 ####La màquina virtual Java
 
