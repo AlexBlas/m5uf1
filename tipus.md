@@ -13,3 +13,12 @@ Els diferents tipus de llenguatges són:
 **Llenguatges de quarta generació o llenguatges de propòsit específic:** Aporten un nivell molt alt d’abstracció en la programació, permetent desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior al necessari per als llenguatges de 3a generació.
 
 **Llenguatges de cinquena generació:** Són llenguatges específics per al tractament de problemes relacionats amb la intel·ligència artificial i els sistemes experts.
+
+**Compilador:**
+
+Són programes que tradueixen el programa escrit amb un llenguatge d’alt nivell al llenguatge màquina. El compilador detectarà els possibles errors del programa font per aconseguir un programa executable depurat.
+Alguns exemples de codis de programació que hauran de passar per un compilador són: Pascal, C, C++, .NET, ...
+
+**Interpret:**
+
+L’intèrpret és un programa que tradueix el codi d’alt nivell a codi de bytes, però, a diferència del compilador, ho fa en temps d’execució. És a dir, no es fa un procés previ de traducció de tot el programa font a codi de bytes, sinó que es va traduint i executant instrucció per instrucció. Alguns exemples de codis de programació que hauran de passar per un intèrpret són: Java, Javascript, PHP, ASP...
