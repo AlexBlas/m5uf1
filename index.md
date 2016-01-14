@@ -6,7 +6,7 @@
 
 [1.3.Tipus de llenguatges de programació.] (https://github.com/AlexBlas/m5uf1/blob/master/tipus.md)
  
-1.4.Característiques dels llenguatges més difosos.
+[1.4.Característiques dels llenguatges més difosos.](https://github.com/AlexBlas/m5uf1/edit/master/paradigmes.md)
 
 1.5. Fases del desenvolupament d'una aplicació: anàlisi, disseny, codificació, proves, documentació, manteniment i explotació, entre d'altres.
  
