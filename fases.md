@@ -33,3 +33,12 @@ En el disseny es generen les especificacions necessàries per a la construcció 
 * La definició i revisió del pla de proves, i el disseny de les verificacions dels nivells de prova establerts
 * El catàleg d’excepcions, que permet establir un conjunt de verificacions relacionades amb el propi disseny o amb l’arquitectura del sistema.
 * L’especificació dels requisits d’implantació.
+
+
+**Construcció del SI**
+
+La construcció del sistema d’informació té com a objectiu final la construcció i la prova dels diferents components del sistema d’informació, a partir del seu conjunt d’especificacions lògiques i físiques, obtingut en la fase de disseny
+
+**Implementacó i acceptació del SI**
+
+Aquest procés té com a objectiu principal el lliurament i l’acceptació del sistema en la seva totalitat, que pot comprendre diversos sistemes d’informació desenvolupats de manera independent, i un segon objectiu, que és dur a terme les activitats oportunes per al pas a producció del sistema.
