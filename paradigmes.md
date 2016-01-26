@@ -26,7 +26,7 @@ Un objecte és una combinació de dades (anomenades **atributs**) i **mètodes**
 
 La programació orientada a objectes es basa en la integració de 5 conceptes:
 * Abstracció 
-* Encapsulació 
+* Encapsulació
 * Modularitat 
 * Jerarquia 
 * Polimorfisme 
